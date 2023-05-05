@@ -1,0 +1,118 @@
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\Elena.exe.config
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\Elena.exe
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\Elena.pdb
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\MaterialDesignColors.dll
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\WpfAnimatedGif.dll
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\MaterialDesignColors.pdb
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\WpfAnimatedGif.pdb
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\WpfAnimatedGif.xml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Elena.csproj.AssemblyReference.cache
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Elena.csproj.SuggestedBindingRedirects.cache
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\MainWindow.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\App.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Elena_MarkupCompile.cache
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Elena_MarkupCompile.lref
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\App.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\MainWindow.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Elena.g.resources
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Elena.Properties.Resources.resources
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Elena.csproj.GenerateResource.cache
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Elena.csproj.CoreCompileInputs.cache
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Elena.csproj.CopyComplete
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Elena.exe
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Elena.pdb
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\AdminView\MainAdminWindow.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\AdminView\MainAdminWindow.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\AdminView\postAdmin.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\AdminView\postAdmin.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\AdminView\userData.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\AdminView\userData.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\AdminView\authData.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\AdminView\authData.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\SkladView\SkladMainWindow.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\SkladView\typeProducts.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\SkladView\SkladMainWindow.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\SkladView\typeProducts.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\SkladView\product.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\SkladView\product.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\KassirMainWindow.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\typeOfGet.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\KassirMainWindow.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\typeOfGet.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\typeOfPay.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\typeOfPay.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\createCheque.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\createCheque.baml
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Project\C шарп\Продажа практических\Elena\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\viewCheque.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\viewCheque.baml
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\typeOfCheque.g.cs
+D:\Project\C шарп\Продажа практических\Elena\obj\Debug\Kassir\typeOfCheque.baml
+D:\LenaHaip-main\bin\Debug\Elena.exe.config
+D:\LenaHaip-main\bin\Debug\Elena.exe
+D:\LenaHaip-main\bin\Debug\Elena.pdb
+D:\LenaHaip-main\bin\Debug\MaterialDesignColors.dll
+D:\LenaHaip-main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\LenaHaip-main\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\LenaHaip-main\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\LenaHaip-main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\LenaHaip-main\bin\Debug\WpfAnimatedGif.dll
+D:\LenaHaip-main\bin\Debug\MaterialDesignColors.pdb
+D:\LenaHaip-main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\LenaHaip-main\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\LenaHaip-main\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\LenaHaip-main\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\LenaHaip-main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\LenaHaip-main\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\LenaHaip-main\bin\Debug\WpfAnimatedGif.pdb
+D:\LenaHaip-main\bin\Debug\WpfAnimatedGif.xml
+D:\LenaHaip-main\obj\Debug\Elena.csproj.AssemblyReference.cache
+D:\LenaHaip-main\obj\Debug\Elena.csproj.SuggestedBindingRedirects.cache
+D:\LenaHaip-main\obj\Debug\AdminView\authData.g.cs
+D:\LenaHaip-main\obj\Debug\AdminView\MainAdminWindow.g.cs
+D:\LenaHaip-main\obj\Debug\AdminView\postAdmin.g.cs
+D:\LenaHaip-main\obj\Debug\AdminView\userData.g.cs
+D:\LenaHaip-main\obj\Debug\Kassir\createCheque.g.cs
+D:\LenaHaip-main\obj\Debug\Kassir\KassirMainWindow.g.cs
+D:\LenaHaip-main\obj\Debug\Kassir\typeOfCheque.g.cs
+D:\LenaHaip-main\obj\Debug\Kassir\typeOfGet.g.cs
+D:\LenaHaip-main\obj\Debug\Kassir\typeOfPay.g.cs
+D:\LenaHaip-main\obj\Debug\Kassir\viewCheque.g.cs
+D:\LenaHaip-main\obj\Debug\MainWindow.g.cs
+D:\LenaHaip-main\obj\Debug\SkladView\product.g.cs
+D:\LenaHaip-main\obj\Debug\SkladView\SkladMainWindow.g.cs
+D:\LenaHaip-main\obj\Debug\SkladView\typeProducts.g.cs
+D:\LenaHaip-main\obj\Debug\App.g.cs
+D:\LenaHaip-main\obj\Debug\Elena_MarkupCompile.cache
+D:\LenaHaip-main\obj\Debug\Elena_MarkupCompile.lref
+D:\LenaHaip-main\obj\Debug\App.baml
+D:\LenaHaip-main\obj\Debug\AdminView\authData.baml
+D:\LenaHaip-main\obj\Debug\AdminView\MainAdminWindow.baml
+D:\LenaHaip-main\obj\Debug\AdminView\postAdmin.baml
+D:\LenaHaip-main\obj\Debug\AdminView\userData.baml
+D:\LenaHaip-main\obj\Debug\Kassir\createCheque.baml
+D:\LenaHaip-main\obj\Debug\Kassir\KassirMainWindow.baml
+D:\LenaHaip-main\obj\Debug\Kassir\typeOfCheque.baml
+D:\LenaHaip-main\obj\Debug\Kassir\typeOfGet.baml
+D:\LenaHaip-main\obj\Debug\Kassir\typeOfPay.baml
+D:\LenaHaip-main\obj\Debug\Kassir\viewCheque.baml
+D:\LenaHaip-main\obj\Debug\MainWindow.baml
+D:\LenaHaip-main\obj\Debug\SkladView\product.baml
+D:\LenaHaip-main\obj\Debug\SkladView\SkladMainWindow.baml
+D:\LenaHaip-main\obj\Debug\SkladView\typeProducts.baml
+D:\LenaHaip-main\obj\Debug\Elena.g.resources
+D:\LenaHaip-main\obj\Debug\Elena.Properties.Resources.resources
+D:\LenaHaip-main\obj\Debug\Elena.csproj.GenerateResource.cache
+D:\LenaHaip-main\obj\Debug\Elena.csproj.CoreCompileInputs.cache
+D:\LenaHaip-main\obj\Debug\Elena.csproj.CopyComplete
+D:\LenaHaip-main\obj\Debug\Elena.exe
+D:\LenaHaip-main\obj\Debug\Elena.pdb

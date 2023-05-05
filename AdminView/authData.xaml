@@ -1,0 +1,35 @@
+﻿<Page x:Class="Elena.AdminView.authData"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Elena.AdminView"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="authData">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid Name="authDataDataGrid" Grid.RowSpan="7" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="DataGrid_SelectionChanged"/>
+        <TextBox MaxLength="50" Name="login" Grid.Column="1" VerticalAlignment="Center" Margin="20,0,20,0" Foreground="Black" FontSize="16" Grid.Row="0" materialDesign:HintAssist.Hint="Логин"/>
+        <PasswordBox MaxLength="50" Name="password" Grid.Column="1" VerticalAlignment="Center" Margin="20,0,20,0" Foreground="Black" FontSize="16" Grid.Row="1" materialDesign:HintAssist.Hint="Пароль"/>
+        <Button Name="save" Grid.Column="1" Content="Сохранить" HorizontalAlignment="Center" Grid.Row="6" VerticalAlignment="Center" FontSize="20" Click="save_Click" Height="42" Width="172"/>
+        <Button Name="delete" Grid.Column="1" Content="Удалить" HorizontalAlignment="Center" Grid.Row="5" VerticalAlignment="Center" FontSize="20" Click="delete_Click" Height="42" Width="172"/>
+        <Button Name="update" Grid.Column="1" Content="Изменить" HorizontalAlignment="Center" Grid.Row="4" VerticalAlignment="Center" FontSize="20" Click="update_Click" Height="42" Width="172"/>
+        <ComboBox Name="userDataComboBox" Grid.Column="1" Grid.Row="3" Margin="20,0,20,0" FontSize="16" materialDesign:HintAssist.Hint="Личные данные"/>
+        <ComboBox Name="postComboBox" Grid.Column="1" Grid.Row="2" Margin="20,0,20,0" FontSize="16" materialDesign:HintAssist.Hint="Роль"/>
+    </Grid>
+</Page>

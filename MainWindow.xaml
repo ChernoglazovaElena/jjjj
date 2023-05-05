@@ -1,0 +1,23 @@
+﻿<Window x:Class="Elena.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Elena"
+        mc:Ignorable="d"
+        Title="Авторизация" MaxHeight="450" MinHeight="450" MaxWidth="450" MinWidth="450">
+    <Grid Background="#FF2B2D31">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Image gif:ImageBehavior.AnimatedSource="Images/bongocat-funny.gif" Grid.Row="0"/>
+        <TextBox MaxLength="50" Name="login" Margin="10,53,10,0" Grid.Row="1" TextWrapping="Wrap" materialDesign:HintAssist.Hint="Логин" FontSize="22" FontFamily="Yu Gothic UI" VerticalAlignment="Top" Foreground="White"/>
+        <PasswordBox MaxLength="50" Name="password" Margin="10,53,10,0" Grid.Row="2" materialDesign:HintAssist.Hint="Пароль" FontSize="15" FontFamily="Yu Gothic UI" VerticalAlignment="Top" Foreground="White"/>
+        <Button Name ="complete" Content="Войти" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Height="48" Width="238" FontSize="24" Click="complete_Click"/>
+    </Grid>
+</Window>

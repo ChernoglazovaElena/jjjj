@@ -1,0 +1,33 @@
+﻿<Window x:Class="Elena.Kassir.KassirMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Elena.Kassir"
+        mc:Ignorable="d"
+        Title="KassirMainWindow" MinHeight="450" MinWidth="1100">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="6*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Image gif:ImageBehavior.AnimatedSource="../Images/bongocat-funny.gif" />
+        <Button Name="typeOfGet" Content="Тип доставки" Grid.Column="1" Margin="20,0,20,0" Click="typeOfGet_Click"/>
+        <Button Name="typeOfPay" Content="Тип оплаты" Grid.Column="2" Margin="20,0,20,0" Click="typeOfPay_Click"/>
+        <Button Name="createCheque" Content="Создать чек" Grid.Column="4" Margin="20,0,20,0" Click="createCheque_Click"/>
+        <Button Name="exit" Content="Выйти" Grid.Column="6" Margin="20,0,20,0" Click="exit_Click"/>
+        <Button Name="vieCheque" Content="Все чеки" Grid.Column="5" Margin="20,0,20,0" Click="vieCheque_Click"/>
+        <Frame Name="Frame" Grid.Row="1" Grid.ColumnSpan="7" NavigationUIVisibility="Hidden"/>
+        <Button x:Name="typeOfCheque" Grid.Column="3" Content="Тип чека" HorizontalAlignment="Center" VerticalAlignment="Center" Click="typeOfCheque_Click" Width="122"/>
+    </Grid>
+</Window>

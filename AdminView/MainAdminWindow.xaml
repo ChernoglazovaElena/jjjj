@@ -1,0 +1,29 @@
+﻿<Window x:Class="Elena.AdminView.MainAdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Elena.AdminView"
+        mc:Ignorable="d"
+        Title="MainAdminWindow" MinHeight="450" MinWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1.3*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1.4*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="6*"/>
+        </Grid.RowDefinitions>
+        <Frame Name="frame" Grid.ColumnSpan="5" Grid.Row="1" NavigationUIVisibility="Hidden"/>
+        <Image gif:ImageBehavior.AnimatedSource="../Images/bongocat-funny.gif" />
+        <Button x:Name="post" Grid.Column="1" Margin="20,0,20,0" Content="Роли" FontSize="12" Click="post_Click"/>
+        <Button x:Name="userData" Grid.Column="2" Margin="20,0,20,0" Content="Личные данные" FontSize="12" Click="userData_Click"/>
+        <Button x:Name="exit" Grid.Column="3" Margin="20,0,20,0" Content="Выйти" FontSize="12" Click="exit_Click" Background="#FFFD4C0A"/>
+        <Button x:Name="authData" Grid.Column="4" Margin="20,0,20,0" Content="Данные авторизации" FontSize="12" Click="authData_Click"/>
+    </Grid>
+</Window>
